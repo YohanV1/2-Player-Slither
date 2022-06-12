@@ -3,5 +3,5 @@ A simple snake game inspired by slither.io, created using Java. 2 players can op
 
 Some of the logic behind the code was implemented with the help of Awais Mirza's playlist on desktop game development: https://www.youtube.com/c/AwaisMirza1
 
-The game has been tested on Windows 10 using Eclipse, VS Code, and BlueJ. Clone the repository (if you have git installed) or download the zip file. Open up the folder in a supported IDE and run the game from the "MenuFrame.java" file.
+The game has been tested on Windows 10 using Eclipse, VS Code, and BlueJ. If you'd like to try out the game for yourself, clone the repository (if you have git installed) or download the zip file. Open up the folder in a supported IDE and run the game from the "MenuFrame.java" file.
 
